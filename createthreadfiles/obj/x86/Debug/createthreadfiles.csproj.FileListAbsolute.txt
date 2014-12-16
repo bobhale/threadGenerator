@@ -1,0 +1,4 @@
+c:\users\bob\documents\visual studio 2010\Projects\createthreadfiles\createthreadfiles\bin\Debug\createthreadfiles.exe
+c:\users\bob\documents\visual studio 2010\Projects\createthreadfiles\createthreadfiles\bin\Debug\createthreadfiles.pdb
+c:\users\bob\documents\visual studio 2010\Projects\createthreadfiles\createthreadfiles\obj\x86\Debug\createthreadfiles.exe
+c:\users\bob\documents\visual studio 2010\Projects\createthreadfiles\createthreadfiles\obj\x86\Debug\createthreadfiles.pdb
